@@ -1,0 +1,79 @@
+.card-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.custom-button {
+    background-color: #4CAF50; /* A slightly darker shade of green */
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+}
+.card {
+    margin-bottom: 20px; /* Adjust the margin as needed */
+}
+.card {
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  
+    /* Create colorful backgrounds */
+    background: linear-gradient(45deg, #ff8080, #ffcc80); /* Gradient background */
+  }
+  
+  .card-title {
+    color: #fff; /* White text for card title */
+  }
+  
+  /* CSS class for the modal */
+.my-modal {
+    background-color: #f0f0f0;
+  }
+  
+  /* CSS class for the title */
+  .my-title {
+    color: #007bff;
+  }
+  
+  /* CSS class for the buttons */
+/* Custom CSS classes for button styles */
+.my-submit-button {
+    background-color: #007bff; /* Blue background color */
+    color: #fff; /* White text color */
+    border: none; /* Remove the button border */
+    padding: 10px 20px; /* Add some padding to the button */
+    border-radius: 5px; /* Add rounded corners */
+    font-weight: bold; /* Make the text bold */
+  }
+  
+  .my-cancel-button {
+    background-color: #dc3545; /* Red background color */
+    color: #fff; /* White text color */
+    border: none; /* Remove the button border */
+    padding: 10px 20px; /* Add some padding to the button */
+    border-radius: 5px; /* Add rounded corners */
+    font-weight: bold; /* Make the text bold */
+  }
+  
+  /* Hover effect for buttons */
+  .my-submit-button:hover,
+  .my-cancel-button:hover {
+    opacity: 0.8; /* Reduce opacity on hover for a visual effect */
+  }
+  
+  /* CSS for centering the buttons */
+.centered-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+
+    /* Hover effect */
+    .custom-button:hover {
+        background-color: #45a049; /* Slightly darken the button on hover */
+    }
+
